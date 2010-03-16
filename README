@@ -1,0 +1,10 @@
+Hello Everyone, and welcome to the TubeGuardian dev team!
+
+I'm going to try and make this short and sweet with a few basic recommendations. 
+
+1. I will be setting up a mailing list to facilitate communication, please send me a message letting me know you want in on the mailing list, and what email address to use for it
+2. Please feel free to fork the repository into different language ports
+3. Please feel free to create wiki pages to help with the management of forks you create
+4. Have fun!
+
+The main bulk of code that matters is in clsStatMonger.cs ... read and be merry!
